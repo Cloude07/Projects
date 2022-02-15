@@ -1,0 +1,16 @@
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\bin\Debug\net5.0\EventsHomework.exe
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\bin\Debug\net5.0\EventsHomework.deps.json
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\bin\Debug\net5.0\EventsHomework.runtimeconfig.json
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\bin\Debug\net5.0\EventsHomework.runtimeconfig.dev.json
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\bin\Debug\net5.0\EventsHomework.dll
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\bin\Debug\net5.0\ref\EventsHomework.dll
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\bin\Debug\net5.0\EventsHomework.pdb
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\obj\Debug\net5.0\EventsHomework.csproj.AssemblyReference.cache
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\obj\Debug\net5.0\EventsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\obj\Debug\net5.0\EventsHomework.AssemblyInfoInputs.cache
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\obj\Debug\net5.0\EventsHomework.AssemblyInfo.cs
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\obj\Debug\net5.0\EventsHomework.csproj.CoreCompileInputs.cache
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\obj\Debug\net5.0\EventsHomework.dll
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\obj\Debug\net5.0\ref\EventsHomework.dll
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\obj\Debug\net5.0\EventsHomework.pdb
+C:\Users\cloude07\Desktop\Новая папка\EventsHomework\EventsHomework\obj\Debug\net5.0\EventsHomework.genruntimeconfig.cache

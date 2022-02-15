@@ -1,0 +1,16 @@
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\bin\Debug\net5.0\DzMethodStringCount.exe
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\bin\Debug\net5.0\DzMethodStringCount.deps.json
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\bin\Debug\net5.0\DzMethodStringCount.runtimeconfig.json
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\bin\Debug\net5.0\DzMethodStringCount.runtimeconfig.dev.json
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\bin\Debug\net5.0\DzMethodStringCount.dll
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\bin\Debug\net5.0\ref\DzMethodStringCount.dll
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\bin\Debug\net5.0\DzMethodStringCount.pdb
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\obj\Debug\net5.0\DzMethodStringCount.csproj.AssemblyReference.cache
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\obj\Debug\net5.0\DzMethodStringCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\obj\Debug\net5.0\DzMethodStringCount.AssemblyInfoInputs.cache
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\obj\Debug\net5.0\DzMethodStringCount.AssemblyInfo.cs
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\obj\Debug\net5.0\DzMethodStringCount.csproj.CoreCompileInputs.cache
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\obj\Debug\net5.0\DzMethodStringCount.dll
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\obj\Debug\net5.0\ref\DzMethodStringCount.dll
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\obj\Debug\net5.0\DzMethodStringCount.pdb
+C:\Users\cloude07\source\repos\DzMethodStringCount\DzMethodStringCount\obj\Debug\net5.0\DzMethodStringCount.genruntimeconfig.cache

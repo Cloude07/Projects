@@ -1,0 +1,11 @@
+C:\Users\Cloude\source\repos\zadacha8\zadacha8\bin\Debug\netcoreapp3.1\zadacha8.exe
+C:\Users\Cloude\source\repos\zadacha8\zadacha8\bin\Debug\netcoreapp3.1\zadacha8.deps.json
+C:\Users\Cloude\source\repos\zadacha8\zadacha8\bin\Debug\netcoreapp3.1\zadacha8.runtimeconfig.json
+C:\Users\Cloude\source\repos\zadacha8\zadacha8\bin\Debug\netcoreapp3.1\zadacha8.runtimeconfig.dev.json
+C:\Users\Cloude\source\repos\zadacha8\zadacha8\bin\Debug\netcoreapp3.1\zadacha8.dll
+C:\Users\Cloude\source\repos\zadacha8\zadacha8\bin\Debug\netcoreapp3.1\zadacha8.pdb
+C:\Users\Cloude\source\repos\zadacha8\zadacha8\obj\Debug\netcoreapp3.1\zadacha8.csprojAssemblyReference.cache
+C:\Users\Cloude\source\repos\zadacha8\zadacha8\obj\Debug\netcoreapp3.1\zadacha8.AssemblyInfoInputs.cache
+C:\Users\Cloude\source\repos\zadacha8\zadacha8\obj\Debug\netcoreapp3.1\zadacha8.AssemblyInfo.cs
+C:\Users\Cloude\source\repos\zadacha8\zadacha8\obj\Debug\netcoreapp3.1\zadacha8.dll
+C:\Users\Cloude\source\repos\zadacha8\zadacha8\obj\Debug\netcoreapp3.1\zadacha8.pdb

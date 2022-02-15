@@ -1,0 +1,11 @@
+C:\Users\Cloude\source\repos\GameConsoleWhoNumber\GameConsoleWhoNumber\bin\Debug\netcoreapp3.1\GameConsoleWhoNumber.exe
+C:\Users\Cloude\source\repos\GameConsoleWhoNumber\GameConsoleWhoNumber\bin\Debug\netcoreapp3.1\GameConsoleWhoNumber.deps.json
+C:\Users\Cloude\source\repos\GameConsoleWhoNumber\GameConsoleWhoNumber\bin\Debug\netcoreapp3.1\GameConsoleWhoNumber.runtimeconfig.json
+C:\Users\Cloude\source\repos\GameConsoleWhoNumber\GameConsoleWhoNumber\bin\Debug\netcoreapp3.1\GameConsoleWhoNumber.runtimeconfig.dev.json
+C:\Users\Cloude\source\repos\GameConsoleWhoNumber\GameConsoleWhoNumber\bin\Debug\netcoreapp3.1\GameConsoleWhoNumber.dll
+C:\Users\Cloude\source\repos\GameConsoleWhoNumber\GameConsoleWhoNumber\bin\Debug\netcoreapp3.1\GameConsoleWhoNumber.pdb
+C:\Users\Cloude\source\repos\GameConsoleWhoNumber\GameConsoleWhoNumber\obj\Debug\netcoreapp3.1\GameConsoleWhoNumber.csprojAssemblyReference.cache
+C:\Users\Cloude\source\repos\GameConsoleWhoNumber\GameConsoleWhoNumber\obj\Debug\netcoreapp3.1\GameConsoleWhoNumber.AssemblyInfoInputs.cache
+C:\Users\Cloude\source\repos\GameConsoleWhoNumber\GameConsoleWhoNumber\obj\Debug\netcoreapp3.1\GameConsoleWhoNumber.AssemblyInfo.cs
+C:\Users\Cloude\source\repos\GameConsoleWhoNumber\GameConsoleWhoNumber\obj\Debug\netcoreapp3.1\GameConsoleWhoNumber.dll
+C:\Users\Cloude\source\repos\GameConsoleWhoNumber\GameConsoleWhoNumber\obj\Debug\netcoreapp3.1\GameConsoleWhoNumber.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cloude\source\repos\AvorizContinue\AvorizContinue\bin\Debug\netcoreapp3.1\AvorizContinue.exe
+C:\Users\Cloude\source\repos\AvorizContinue\AvorizContinue\bin\Debug\netcoreapp3.1\AvorizContinue.deps.json
+C:\Users\Cloude\source\repos\AvorizContinue\AvorizContinue\bin\Debug\netcoreapp3.1\AvorizContinue.runtimeconfig.json
+C:\Users\Cloude\source\repos\AvorizContinue\AvorizContinue\bin\Debug\netcoreapp3.1\AvorizContinue.runtimeconfig.dev.json
+C:\Users\Cloude\source\repos\AvorizContinue\AvorizContinue\bin\Debug\netcoreapp3.1\AvorizContinue.dll
+C:\Users\Cloude\source\repos\AvorizContinue\AvorizContinue\bin\Debug\netcoreapp3.1\AvorizContinue.pdb
+C:\Users\Cloude\source\repos\AvorizContinue\AvorizContinue\obj\Debug\netcoreapp3.1\AvorizContinue.csprojAssemblyReference.cache
+C:\Users\Cloude\source\repos\AvorizContinue\AvorizContinue\obj\Debug\netcoreapp3.1\AvorizContinue.AssemblyInfoInputs.cache
+C:\Users\Cloude\source\repos\AvorizContinue\AvorizContinue\obj\Debug\netcoreapp3.1\AvorizContinue.AssemblyInfo.cs
+C:\Users\Cloude\source\repos\AvorizContinue\AvorizContinue\obj\Debug\netcoreapp3.1\AvorizContinue.dll
+C:\Users\Cloude\source\repos\AvorizContinue\AvorizContinue\obj\Debug\netcoreapp3.1\AvorizContinue.pdb

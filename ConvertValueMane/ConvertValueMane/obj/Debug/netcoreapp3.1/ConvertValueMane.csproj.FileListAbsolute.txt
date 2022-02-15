@@ -1,0 +1,11 @@
+C:\Users\Cloude\source\repos\ConvertValueMane\ConvertValueMane\bin\Debug\netcoreapp3.1\ConvertValueMane.exe
+C:\Users\Cloude\source\repos\ConvertValueMane\ConvertValueMane\bin\Debug\netcoreapp3.1\ConvertValueMane.deps.json
+C:\Users\Cloude\source\repos\ConvertValueMane\ConvertValueMane\bin\Debug\netcoreapp3.1\ConvertValueMane.runtimeconfig.json
+C:\Users\Cloude\source\repos\ConvertValueMane\ConvertValueMane\bin\Debug\netcoreapp3.1\ConvertValueMane.runtimeconfig.dev.json
+C:\Users\Cloude\source\repos\ConvertValueMane\ConvertValueMane\bin\Debug\netcoreapp3.1\ConvertValueMane.dll
+C:\Users\Cloude\source\repos\ConvertValueMane\ConvertValueMane\bin\Debug\netcoreapp3.1\ConvertValueMane.pdb
+C:\Users\Cloude\source\repos\ConvertValueMane\ConvertValueMane\obj\Debug\netcoreapp3.1\ConvertValueMane.csprojAssemblyReference.cache
+C:\Users\Cloude\source\repos\ConvertValueMane\ConvertValueMane\obj\Debug\netcoreapp3.1\ConvertValueMane.AssemblyInfoInputs.cache
+C:\Users\Cloude\source\repos\ConvertValueMane\ConvertValueMane\obj\Debug\netcoreapp3.1\ConvertValueMane.AssemblyInfo.cs
+C:\Users\Cloude\source\repos\ConvertValueMane\ConvertValueMane\obj\Debug\netcoreapp3.1\ConvertValueMane.dll
+C:\Users\Cloude\source\repos\ConvertValueMane\ConvertValueMane\obj\Debug\netcoreapp3.1\ConvertValueMane.pdb

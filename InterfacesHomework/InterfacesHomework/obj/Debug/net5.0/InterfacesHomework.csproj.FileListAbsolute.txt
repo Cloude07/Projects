@@ -1,0 +1,16 @@
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\bin\Debug\net5.0\InterfacesHomework.exe
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\bin\Debug\net5.0\InterfacesHomework.deps.json
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\bin\Debug\net5.0\InterfacesHomework.runtimeconfig.json
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\bin\Debug\net5.0\InterfacesHomework.runtimeconfig.dev.json
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\bin\Debug\net5.0\InterfacesHomework.dll
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\bin\Debug\net5.0\ref\InterfacesHomework.dll
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\bin\Debug\net5.0\InterfacesHomework.pdb
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\obj\Debug\net5.0\InterfacesHomework.csproj.AssemblyReference.cache
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\obj\Debug\net5.0\InterfacesHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\obj\Debug\net5.0\InterfacesHomework.AssemblyInfoInputs.cache
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\obj\Debug\net5.0\InterfacesHomework.AssemblyInfo.cs
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\obj\Debug\net5.0\InterfacesHomework.csproj.CoreCompileInputs.cache
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\obj\Debug\net5.0\InterfacesHomework.dll
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\obj\Debug\net5.0\ref\InterfacesHomework.dll
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\obj\Debug\net5.0\InterfacesHomework.pdb
+C:\Users\cloude07\Desktop\Новая папка\InterfacesHomework\InterfacesHomework\obj\Debug\net5.0\InterfacesHomework.genruntimeconfig.cache

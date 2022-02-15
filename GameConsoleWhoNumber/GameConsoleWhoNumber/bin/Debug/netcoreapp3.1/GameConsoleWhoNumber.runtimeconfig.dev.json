@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Cloude\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Cloude\\.nuget\\packages"
+    ]
+  }
+}

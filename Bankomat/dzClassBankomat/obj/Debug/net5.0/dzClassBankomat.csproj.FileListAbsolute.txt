@@ -1,0 +1,16 @@
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\bin\Debug\net5.0\dzClassBankomat.exe
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\bin\Debug\net5.0\dzClassBankomat.deps.json
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\bin\Debug\net5.0\dzClassBankomat.runtimeconfig.json
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\bin\Debug\net5.0\dzClassBankomat.runtimeconfig.dev.json
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\bin\Debug\net5.0\dzClassBankomat.dll
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\bin\Debug\net5.0\ref\dzClassBankomat.dll
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\bin\Debug\net5.0\dzClassBankomat.pdb
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\obj\Debug\net5.0\dzClassBankomat.csproj.AssemblyReference.cache
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\obj\Debug\net5.0\dzClassBankomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\obj\Debug\net5.0\dzClassBankomat.AssemblyInfoInputs.cache
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\obj\Debug\net5.0\dzClassBankomat.AssemblyInfo.cs
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\obj\Debug\net5.0\dzClassBankomat.csproj.CoreCompileInputs.cache
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\obj\Debug\net5.0\dzClassBankomat.dll
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\obj\Debug\net5.0\ref\dzClassBankomat.dll
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\obj\Debug\net5.0\dzClassBankomat.pdb
+C:\Users\cloude07\source\repos\dzClassBankomat\dzClassBankomat\obj\Debug\net5.0\dzClassBankomat.genruntimeconfig.cache
